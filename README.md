@@ -18,21 +18,18 @@ Etudier l'utilisation des assertions : https://junit.org/junit5/docs/current/use
 
 # TP 1 - JUnit
 
-Créer un projet avec Intellij :
+Créer un projet avec Intellij 
 
-<img src="images/projet.png" width="500"/>
 
 Attendre que le projet soit créé.
 
-Ajouter la librairie Jupiter (clic droit sur le projet -> Open Module Settings) : 
+Ajouter la librairie Jupiter (clic droit sur le projet -> Open Module Settings)
 
-<img src="images/librairie.png" width="500"/>
 
 Ajouter dans src deux dossiers (java pour les classes à tester et test pour les classes de test).
 
 Indiquer à Intellij que java est le dossier pour le code source et test celui pour les tests.
 
-<img src="images/dossier.png" width="500"/>
 
 Créer une classe Voiture dans le packe de src/main/Java.
 
@@ -50,7 +47,6 @@ Créer un projet dans votre compte Github.
 
 Poussez votre code vers votre dépôt git (en indiquant l'adresse de votre projet)
 
-<img src="images/pushExistingProjet.png" width="500"/>
 
 Indiquez l'adresse de votre projet dans le fichier dépots git : https://drive.google.com/drive/folders/1RVLc4yg5IKTq3OSht6wm1Cdjq9jOLEqy?usp=sharing
 
