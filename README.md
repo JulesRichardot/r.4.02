@@ -157,9 +157,3 @@ Votre tâche consiste à écrire la classe de test en utilisant le framework Moc
 L'application de la question précédente est utilisé la un service Web dont voici le code : https://github.com/charroux/testsLogiciel/blob/main/src/main/java/com/example/demo/web/StatistiqueController.java
 
 Votre travail consiste à écrire la classe de test correspondante : https://github.com/charroux/testsLogiciel/blob/main/src/test/java/com/example/demo/web/WebTests.java
-
-
-## Test du Web service
-
-Créer dans le dossier test un package web. Implentez-y une classe de test pour le Web service.
-
